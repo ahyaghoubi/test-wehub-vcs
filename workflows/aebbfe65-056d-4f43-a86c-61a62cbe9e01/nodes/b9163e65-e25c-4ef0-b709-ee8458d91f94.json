@@ -1,7 +1,7 @@
 {
   "actionId": "a0000000-0000-0000-0000-000000000001",
   "kind": "trigger",
-  "label": "T",
+  "label": "B-touch",
   "settings": {
     "label": "T"
   },
