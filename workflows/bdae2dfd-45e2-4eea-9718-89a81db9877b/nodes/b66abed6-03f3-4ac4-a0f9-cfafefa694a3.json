@@ -5,7 +5,7 @@
   "settings": {
     "in_format": "RFC3339",
     "label": "Fmt",
-    "out_format": "RFC850"
+    "out_format": "ANSIC"
   },
   "version": 2,
   "x": 320,
