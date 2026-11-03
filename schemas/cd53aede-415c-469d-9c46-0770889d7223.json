@@ -1,0 +1,1 @@
+{"id":"fe776844-4e49-49db-9b25-14405473e7ea","name":"eg-csv","delimiter":",","columnHeaders":{"mrn":{"id":"ec1ae990-bfb4-4157-9a18-75c96e1c96f7","position":0,"type":"STRING","required":false,"default":null,"validation":null},"ward":{"id":"38a8364f-e308-4d1d-8ae0-4ebca1756697","position":1,"type":"STRING","required":false,"default":null,"validation":null}}}
