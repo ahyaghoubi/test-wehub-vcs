@@ -1,0 +1,1 @@
+{"id":"4cf40c02-f76c-44a6-8907-deea99dfae6a","name":"rt2-schema","delimiter":",","columnHeaders":{"mrn":{"id":"ad7ce77f-3e7a-454d-96ef-cbaff3be0117","position":0,"type":"STRING","required":false,"default":null,"validation":null},"ward":{"id":"b035d05d-45c3-4ddf-ab1d-2a60144d9269","position":1,"type":"STRING","required":false,"default":null,"validation":null}}}

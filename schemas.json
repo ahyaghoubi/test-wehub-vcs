@@ -1,0 +1,10 @@
+{
+  "293d25ee-aaf2-4a55-98dd-20e6251429d3": {
+    "name": "rt2-schema",
+    "type": "CSV"
+  },
+  "d128950d-5d50-4dd9-8e91-4cb7a5fb3e13": {
+    "name": "schema-d128950d-5d50-4dd9-8e91-4cb7a5fb3e13",
+    "type": "JSON"
+  }
+}
