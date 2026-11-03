@@ -5,7 +5,7 @@
   "settings": {
     "in_format": "RFC3339",
     "label": "Fmt",
-    "out_format": "RFC1123"
+    "out_format": "RFC850"
   },
   "version": 2,
   "x": 320,
