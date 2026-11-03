@@ -1,0 +1,11 @@
+{
+  "actionId": "a0000000-0000-0000-0000-000000000001",
+  "kind": "trigger",
+  "label": "Trigger",
+  "settings": {
+    "label": "Trigger"
+  },
+  "version": 2,
+  "x": 0,
+  "y": 0
+}
