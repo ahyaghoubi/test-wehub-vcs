@@ -1,1 +1,21 @@
-null
+[
+  {
+    "id": "ed86559c-e540-4f81-8ed4-46e9d07459d4",
+    "name": "qa-internal-billing-api",
+    "pluginType": "plugin-http-client",
+    "usages": [
+      {
+        "nodeId": "00c045f6-29d1-451d-b843-cfed9bf4ec8f",
+        "nodeLabel": "Call billing",
+        "source": "nodeConfiguration",
+        "workflowName": "wf-eg"
+      },
+      {
+        "nodeId": "00c045f6-29d1-451d-b843-cfed9bf4ec8f",
+        "nodeLabel": "Call billing",
+        "source": "resourceEngagement",
+        "workflowName": "wf-eg"
+      }
+    ]
+  }
+]
