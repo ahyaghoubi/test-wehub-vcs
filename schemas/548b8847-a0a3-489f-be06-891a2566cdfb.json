@@ -1,1 +1,0 @@
-{"id":"239a09d9-3d57-45f9-b8cc-a378b14586c9","name":"pe-schema","delimiter":",","columnHeaders":{"mrn":{"id":"1d037af2-e176-4691-a8ad-fe91788f4192","position":0,"type":"STRING","required":false,"default":null,"validation":null},"ward":{"id":"3cb1c101-dca4-4c4f-a1cd-8399ca90ab4e","position":1,"type":"STRING","required":false,"default":null,"validation":null}}}
