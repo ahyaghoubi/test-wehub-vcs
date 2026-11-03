@@ -1,7 +1,7 @@
 {
   "actionId": "a0000000-0000-0000-0000-000000000023",
   "kind": "processor",
-  "label": "HC2",
+  "label": "B-unpushed-label",
   "settings": {
     "label": "HC",
     "method": "GET",
