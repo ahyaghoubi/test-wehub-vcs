@@ -1,1 +1,20 @@
-null
+[
+  {
+    "id": "",
+    "pluginType": "plugin-http-client",
+    "usages": [
+      {
+        "nodeId": "b46965e9-137c-4a11-85bb-7c8e84883b8f",
+        "nodeLabel": "Call billing",
+        "source": "nodeConfiguration",
+        "workflowName": "wf-clone"
+      },
+      {
+        "nodeId": "b46965e9-137c-4a11-85bb-7c8e84883b8f",
+        "nodeLabel": "Call billing",
+        "source": "resourceEngagement",
+        "workflowName": "wf-clone"
+      }
+    ]
+  }
+]

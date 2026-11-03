@@ -1,0 +1,13 @@
+{
+  "actionId": "a0000000-0000-0000-0000-000000000023",
+  "kind": "processor",
+  "label": "Call billing",
+  "settings": {
+    "label": "Call billing",
+    "method": "GET",
+    "url": "https://example.invalid/x"
+  },
+  "version": 2,
+  "x": 640,
+  "y": 0
+}
