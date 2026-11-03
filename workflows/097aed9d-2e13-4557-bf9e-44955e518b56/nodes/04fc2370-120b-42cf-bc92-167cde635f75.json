@@ -1,0 +1,12 @@
+{
+  "actionId": "a0000000-0000-0000-0000-000000000084",
+  "kind": "processor",
+  "label": "Out",
+  "settings": {
+    "label": "Out",
+    "schema_id": "7e73ab1a-3cbb-4b35-83c8-56b7b9c6f4cf"
+  },
+  "version": 2,
+  "x": 320,
+  "y": 0
+}
