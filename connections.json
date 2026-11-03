@@ -5,13 +5,13 @@
     "usages": [
       {
         "nodeId": "ce56cd67-a925-4292-a90e-ec0339ef7a15",
-        "nodeLabel": "HC",
+        "nodeLabel": "HC2",
         "source": "nodeConfiguration",
         "workflowName": "wf-clone"
       },
       {
         "nodeId": "ce56cd67-a925-4292-a90e-ec0339ef7a15",
-        "nodeLabel": "HC",
+        "nodeLabel": "HC2",
         "source": "resourceEngagement",
         "workflowName": "wf-clone"
       }
