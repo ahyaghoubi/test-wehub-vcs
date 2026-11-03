@@ -1,7 +1,7 @@
 {
   "actionId": "a0000000-0000-0000-0000-000000000023",
   "kind": "processor",
-  "label": "A-side",
+  "label": "A-says",
   "settings": {
     "label": "Call billing",
     "method": "GET",
