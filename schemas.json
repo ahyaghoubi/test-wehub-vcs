@@ -3,6 +3,10 @@
     "name": "rt2-schema",
     "type": "CSV"
   },
+  "548b8847-a0a3-489f-be06-891a2566cdfb": {
+    "name": "pe-schema",
+    "type": "CSV"
+  },
   "6044af7b-c224-4d2f-9c54-80bf2848a77d": {
     "name": "clone-schema",
     "type": "JSON"

@@ -1,0 +1,14 @@
+{
+  "destinations": [
+    {
+      "node": "82a440f8-10d8-4030-a9a1-a6ba4705c723",
+      "origin": "STATIC",
+      "portKey": "body"
+    }
+  ],
+  "source": {
+    "node": "7c74653a-338e-4e02-89aa-a2d091a5afce",
+    "origin": "STATIC",
+    "portKey": "payload"
+  }
+}
