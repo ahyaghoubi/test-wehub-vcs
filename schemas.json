@@ -7,6 +7,10 @@
     "name": "clone-schema",
     "type": "JSON"
   },
+  "8dd88b51-ad6d-4ffc-8061-eadd46169c08": {
+    "name": "pe-schema",
+    "type": "CSV"
+  },
   "d128950d-5d50-4dd9-8e91-4cb7a5fb3e13": {
     "name": "schema-d128950d-5d50-4dd9-8e91-4cb7a5fb3e13",
     "type": "JSON"
